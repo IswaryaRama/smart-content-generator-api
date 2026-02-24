@@ -4,15 +4,15 @@ A full-stack web application that generates AI-powered text with real-time senti
 
 ## Features
 
-AI Text Generation
-Sentiment Control(Positive, Neutral, or Negative)
-Real-time Sentiment Analysis
-Visual Feedback*
-Sentiment Meter
-Request vs Actual Comparison
-Word Count Analysis
-Fallback System
-Responsive Design
+- AI Text Generation
+- Sentiment Control(Positive, Neutral, or Negative)
+- Real-time Sentiment Analysis
+- Visual Feedback*
+- Sentiment Meter
+- Request vs Actual Comparison
+- Word Count Analysis
+- Fallback System
+- Responsive Design
 
 ### Frontend
 React.js
